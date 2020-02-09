@@ -1,5 +1,5 @@
 # php utilities
 
-<p align="center"><img src="https://img.shields.io/badge/version-dev-red"></p>
+<img src="https://img.shields.io/badge/version-dev-red">
 
 a collection of PHP classes for different tasks 
