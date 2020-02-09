@@ -16,9 +16,9 @@
         }
     },
     "repositories": [
-    {
-        "type": "vcs",
-        "url": "https://github.com/celyes/utilities"
-    }
-],
+        {
+            "type": "vcs",
+            "url": "https://github.com/celyes/utilities"
+        }
+    ]
 }
