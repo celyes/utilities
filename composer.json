@@ -1,0 +1,13 @@
+{
+    "name": "celyes/utilities",
+    "description": "a collection of PHP classes for different tasks",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "celyes",
+            "email": "celyes02@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
